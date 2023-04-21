@@ -1,5 +1,7 @@
 # hiking-trail-ai
-Following hiking trails with a small AI (suits edge computing). W/ Self-recorded dataset.
+Following hiking trails with a small AI for edge computing. Includes a self-recorded dataset.
+
+![](https://github.com/lucmaki/hiking-trail-ai/blob/main/readme.gif?raw=true)
 
 ## TLDR of Report
 We train an AI for hiking trail directional estimation. There are two main goals: recording data to build a dataset, and training a light-weight model.
