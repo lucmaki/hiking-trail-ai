@@ -1,5 +1,5 @@
 # hiking-trail-ai
-Following hiking trails with a small AI for edge computing. Includes a self-recorded dataset.
+Following hiking trails with a light-weight AI, for edge computing. Includes a self-recorded dataset.
 
 ![](https://github.com/lucmaki/hiking-trail-ai/blob/main/readme.gif?raw=true)
 
