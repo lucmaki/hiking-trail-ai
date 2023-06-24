@@ -2,6 +2,7 @@
 Following hiking trails with a light-weight AI, for edge computing. Includes a self-recorded dataset.
 
 ![](https://github.com/lucmaki/hiking-trail-ai/blob/main/readme.gif?raw=true)
+(Red arrow is the AI prediction, green arrow is rounding it to the nearest direction)
 
 ## TLDR of Report
 We train an AI for directional estimation of hiking trails. There are two main goals: recording data to build a dataset, and training a light-weight model.
