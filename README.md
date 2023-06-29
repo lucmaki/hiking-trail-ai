@@ -10,7 +10,7 @@ We train an AI for directional estimation of hiking trails. There are two main g
 
 * **Dataset**: hiking trail directional datasets are sparse, and lack enough trail variety for good deep learning generalization. So, we record our own data to use alongside the already existing data. This is recorded on a couple trails and are categorized based on which of the "left", "right" and "forward" cameras records the footage.
 
-* **Model**: Convolutional Neural Networks (CNNs) tend to be heavy and slow, making them unsuited for edge computing. Since we want a lightweight AI that can be deployed in the wild. The MobileNetV2 architecture is thus employed, an architecture which attempts to reduce CNN size while remaining performant. 
+* **Model**: Convolutional Neural Networks (CNNs) tend to be too heavy and slow for edge computing. Since we want a lightweight AI that can be deployed in the wild, the MobileNetV2 architecture is employed; an architecture which reduce CNN size while remaining performant, to an extent.
 
 * **Results**: The model was small enough to load on a Raspeberry Pi 3, with a processing rate of 2 imgs per sec. The AI's performance was decent when tested on a trail not in the training set, but not good enough for practical use. More testing would need to be done to check whether that is a fault of the architecture or insufficient training data variety.
 
