@@ -19,4 +19,4 @@ The dataset we recorded ourselves is available for download [HERE](https://www.k
 For other data used for training, refer to the report.
 
 ## Where's the AI
-While the model itself isn't published for now, you can find here all resources to replicate the results: the code, dataset, train/test methodology and logs.
+The model isn't published for now but all resources to replicate the results are made available: the code, dataset, train/test methodology and logs.
